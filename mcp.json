@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "insightpet2": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sse",
+        "https://insightpet2-31x2so2rw-r-krishna-mondals-projects.vercel.app/sse"
+      ]
+    }
+  }
+}
